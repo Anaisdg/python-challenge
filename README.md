@@ -1,6 +1,6 @@
 # python-challenge
 
-Four seperate Python challenges involving the analysis of: 1) fincial data, 2) voting data, 3) employee data, and 4) a short passage. 
+Four seperate Python challenges involving the analysis of: 1) fincial data, 2) voting data, 3) employee data, and 4) a short passage. Completed with and without Pandas.
 
 # PyBank 
 
